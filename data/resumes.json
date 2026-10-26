@@ -1,0 +1,12 @@
+[
+  {"text": "Arun Kumar is a data analyst with 3 years of experience. He works with Python, SQL and Power BI.",
+   "expected": {"name": "Arun Kumar", "skills": ["Python", "SQL", "Power BI"], "years_experience": 3}},
+  {"text": "Meera Nair has 5 years of experience as a backend developer. Her skills are Java, Spring and Docker.",
+   "expected": {"name": "Meera Nair", "skills": ["Java", "Spring", "Docker"], "years_experience": 5}},
+  {"text": "Fresh graduate Rahul Sharma knows Excel and Tableau and has 0 years of work experience.",
+   "expected": {"name": "Rahul Sharma", "skills": ["Excel", "Tableau"], "years_experience": 0}},
+  {"text": "Divya Raj, a machine learning engineer with 7 years in the field, uses Python, TensorFlow, and AWS.",
+   "expected": {"name": "Divya Raj", "skills": ["Python", "TensorFlow", "AWS"], "years_experience": 7}},
+  {"text": "Sanjay Patel has been a project manager for 10 years and is skilled in Agile, Jira and Budgeting.",
+   "expected": {"name": "Sanjay Patel", "skills": ["Agile", "Jira", "Budgeting"], "years_experience": 10}}
+]

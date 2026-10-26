@@ -1,0 +1,17 @@
+[
+  {"ticket": "I was charged twice for my subscription this month.", "category": "Billing", "priority": "High"},
+  {"ticket": "Please send me a copy of last month's invoice.", "category": "Billing", "priority": "Low"},
+  {"ticket": "My refund has not arrived after 10 days.", "category": "Billing", "priority": "Medium"},
+  {"ticket": "The coupon code is not applying at checkout.", "category": "Billing", "priority": "Low"},
+  {"ticket": "I was charged after I cancelled my plan, I want my money back now.", "category": "Billing", "priority": "High"},
+  {"ticket": "The app crashes every time I open the camera.", "category": "Technical", "priority": "High"},
+  {"ticket": "The website is slow to load on my phone.", "category": "Technical", "priority": "Low"},
+  {"ticket": "I get error 500 when I upload files and my whole team is blocked.", "category": "Technical", "priority": "High"},
+  {"ticket": "The export to PDF button does nothing.", "category": "Technical", "priority": "Medium"},
+  {"ticket": "Notifications arrive a few minutes late.", "category": "Technical", "priority": "Low"},
+  {"ticket": "I forgot my password and the reset email never comes.", "category": "Account", "priority": "Medium"},
+  {"ticket": "Someone logged in to my account from another country!", "category": "Account", "priority": "High"},
+  {"ticket": "How do I change my email address on my profile?", "category": "Account", "priority": "Low"},
+  {"ticket": "Please delete my account and all my data.", "category": "Account", "priority": "Medium"},
+  {"ticket": "I cannot log in and I have a client demo in 10 minutes.", "category": "Account", "priority": "High"}
+] 
