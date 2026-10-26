@@ -10,8 +10,8 @@ A hands-on project that measures token cost, tests what LLMs can and cannot do, 
 ```
 llm-fundamentals/
 ├── client.py # one function (ask) that calls the model
-├── task1_tokens_cost.py # Task 1: tokens, context windows, cost
-├── task2_limitations.py # Task 2: capabilities and limitations lab
+├── token_cost.py # Task 1: tokens, context windows, cost
+├── limitations.py # Task 2: capabilities and limitations lab
 ├── t3_transformers.py # Task 3: attention, positional encoding, BERT, GPT-2
 ├── t4_prompt_toolkit.py # Task 4: prompt engineering toolkit
 ├── data/
