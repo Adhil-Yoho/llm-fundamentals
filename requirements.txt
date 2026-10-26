@@ -1,0 +1,8 @@
+tiktoken
+openai
+numpy
+matplotlib
+transformers
+torch
+pydantic
+python-dotenv
